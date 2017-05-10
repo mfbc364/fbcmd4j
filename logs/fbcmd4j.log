@@ -1,0 +1,42 @@
+2017-05-10 03:19:54.986 [main] ERROR org.fbcmd4j.Utils - Archivo fbcmd4j.properties vacío.
+2017-05-10 03:20:06.431 [main] ERROR org.fbcmd4j.Utils - java.lang.IllegalStateException: No Token available.
+2017-05-10 03:20:11.822 [main] ERROR org.fbcmd4j.Main - message - An active access token must be used to query information about the current user.
+code - 2500
+Relevant information for error recovery can be found on the Facebook Developers Document:
+	https://developers.facebook.com/docs/graph-api/using-graph-api/#errors
+
+FacebookException{statusCode=400, errorType='OAuthException', errorMessage='An active access token must be used to query information about the current user.', errorCode=2500, errorSubcode=-1, version=2.4.9}
+2017-05-10 03:21:19.799 [main] ERROR org.fbcmd4j.Utils - Archivo fbcmd4j.properties vacío.
+2017-05-10 03:21:43.711 [main] ERROR org.fbcmd4j.Utils - java.lang.IllegalStateException: No Token available.
+2017-05-10 03:21:51.919 [main] ERROR org.fbcmd4j.Main - message - (#200) Requires extended permission: read_stream
+code - 200
+Relevant information for error recovery can be found on the Facebook Developers Document:
+	https://developers.facebook.com/docs/graph-api/using-graph-api/#errors
+
+FacebookException{statusCode=403, errorType='OAuthException', errorMessage='(#200) Requires extended permission: read_stream', errorCode=200, errorSubcode=-1, version=2.4.9}
+2017-05-10 03:25:35.847 [main] ERROR org.fbcmd4j.Utils - Archivo fbcmd4j.properties vacío.
+2017-05-10 03:29:24.989 [main] ERROR org.fbcmd4j.Utils - Archivo fbcmd4j.properties vacío.
+2017-05-10 03:34:30.983 [main] ERROR org.fbcmd4j.Utils - Archivo fbcmd4j.properties vacío.
+2017-05-10 03:34:41.660 [main] ERROR org.fbcmd4j.Main - message - (#200) Requires extended permission: read_stream
+code - 200
+Relevant information for error recovery can be found on the Facebook Developers Document:
+	https://developers.facebook.com/docs/graph-api/using-graph-api/#errors
+
+FacebookException{statusCode=403, errorType='OAuthException', errorMessage='(#200) Requires extended permission: read_stream', errorCode=200, errorSubcode=-1, version=2.4.9}
+2017-05-10 03:39:11.693 [main] ERROR org.fbcmd4j.Utils - Archivo fbcmd4j.properties vacío.
+2017-05-10 03:39:23.760 [main] ERROR org.fbcmd4j.Main - message - (#200) Requires extended permission: read_stream
+code - 200
+Relevant information for error recovery can be found on the Facebook Developers Document:
+	https://developers.facebook.com/docs/graph-api/using-graph-api/#errors
+
+FacebookException{statusCode=403, errorType='OAuthException', errorMessage='(#200) Requires extended permission: read_stream', errorCode=200, errorSubcode=-1, version=2.4.9}
+2017-05-10 03:41:57.854 [main] ERROR org.fbcmd4j.Utils - Archivo fbcmd4j.properties vacío.
+2017-05-10 03:42:06.795 [main] ERROR org.fbcmd4j.Main - message - (#200) Requires extended permission: read_stream
+code - 200
+Relevant information for error recovery can be found on the Facebook Developers Document:
+	https://developers.facebook.com/docs/graph-api/using-graph-api/#errors
+
+FacebookException{statusCode=403, errorType='OAuthException', errorMessage='(#200) Requires extended permission: read_stream', errorCode=200, errorSubcode=-1, version=2.4.9}
+2017-05-10 03:42:13.918 [main] ERROR org.fbcmd4j.Utils - Archivo fbcmd4j.properties vacío.
+2017-05-10 03:45:56.980 [main] ERROR org.fbcmd4j.Utils - Archivo fbcmd4j.properties vacío.
+2017-05-10 03:46:14.424 [main] ERROR org.fbcmd4j.Main - java.lang.ClassCastException: facebook4j.internal.json.ResponseListImpl cannot be cast to facebook4j.api.PostMethods
